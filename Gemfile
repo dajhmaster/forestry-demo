@@ -3,10 +3,10 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.6.3"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.9", ">= 0.9.2"
-  gem "jekyll-menus", ">= 0.6.0"
+  gem "jekyll-feed", "~> 0.11", ">= 0.11.0"
+  gem "jekyll-menus", ">= 0.6.1"
   gem "jekyll-tagging"
-  gem "jekyll-archives", ">= 2.1.1"
+  gem "jekyll-archives", ">= 2.2.1"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
