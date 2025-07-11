@@ -6,7 +6,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12", ">= 0.12.0"
   gem "jekyll-menus", ">= 0.6.1"
   gem "jekyll-tagging"
-  gem "jekyll-archives", ">= 2.2.1"
+  gem "jekyll-archives", ">= 2.3.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
